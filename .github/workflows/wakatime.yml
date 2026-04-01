@@ -1,0 +1,24 @@
+name: Update WakaTime stats
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 6:00 AM
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Esto permite que lo ejecutes manualmente para probar
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "all_time"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          LANG_COUNT: 5
