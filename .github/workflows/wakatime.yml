@@ -11,6 +11,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
