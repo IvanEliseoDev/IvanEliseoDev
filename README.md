@@ -2,6 +2,4 @@
 
 [![committers.top badge](https://user-badge.committers.top/el_salvador/IvanEliseoDev.svg)](https://user-badge.committers.top/el_salvador/IvanEliseoDev)
 
-``
 esto será reemplazado por el bot
-``
