@@ -2,4 +2,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/el_salvador/IvanEliseoDev.svg)](https://user-badge.committers.top/el_salvador/IvanEliseoDev)
 
-esto-sera-reemplazado
+##  WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
