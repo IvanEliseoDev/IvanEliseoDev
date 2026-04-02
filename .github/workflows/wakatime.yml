@@ -17,3 +17,4 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: "█▓▒░"
+          TIME_RANGE: all_time
