@@ -42,4 +42,4 @@ Java         10 mins               ███████████████
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Snake animation dark](https://raw.githubusercontent.com/IvanEliseoDev/IvanEliseoDev/main/github-snake-dark.svg)
+
