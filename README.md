@@ -42,4 +42,15 @@ JSON         28 mins               ███████████████
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+DB_URI="mongodb://localhost:27017/AtomicShopDB"
+PORT="4000"
+JWT_SECRET="AtomicSecrectKey1234" 
+
+USER_EMAIL="atomicshopsv@gmail.com"
+USER_PASSWORD="yahu lvyr zkwr hfsi"
+
+CLOUDINARY_CLOUD_NAME="djtj1pex1"
+CLOUDINARY_API_KEY="893775775762777"
+CLOUDINARY_API_SECRET="WBDZ6YeNSS1hQXirVpi4qu1nudw"
+
 
