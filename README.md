@@ -10,7 +10,7 @@ Hi! I'm a FullStack Jr. Developer passionate about continuous learning and explo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 07 July 2026
+From: 25 January 2026 - To: 08 July 2026
 
 TypeScript   82 hrs 34 mins        ░░░░░░░░░░░░█████████████   48.44 %
 JavaScript   81 hrs 9 mins         ░░░░░░░░░░░░█████████████   47.61 %
